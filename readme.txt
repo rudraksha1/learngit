@@ -1,1 +1,1 @@
-mkdir learngit //创建一个空目录cd learngit // 进入到目录pwdgit init // 通过git init命令把这个目录变成Git可以管理的仓库Git is a version control system.Git is free software.git add readme.txt // 用命令git add告诉Git，把文件添加到仓库git commit -m "wrote a readme file" // 用命令git commit告诉Git，把文件提交到仓库
+Git is a version control system.Git is free software.
